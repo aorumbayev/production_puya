@@ -20,6 +20,7 @@ environment_secrets = [
 [project.deploy.localnet]
 environment_secrets = []
 
+
 [project.run]
 # Commands intented for use locally and in CI
 build = { commands = [
